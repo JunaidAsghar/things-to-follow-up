@@ -1,5 +1,5 @@
 # things-to-follow-up
-
+face embeddings
 Nets:
   FCN8, FCN16, FCN32
   linkNet
