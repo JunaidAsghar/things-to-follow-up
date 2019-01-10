@@ -1,5 +1,8 @@
 # things-to-follow-up
 face embeddings
+GANS:
+  pix2pixel
+  
 Nets:
   FCN8, FCN16, FCN32
   linkNet
