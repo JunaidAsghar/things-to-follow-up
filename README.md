@@ -1,5 +1,14 @@
 # things-to-follow-up
 
+Nets:
+  FCN8, FCN16, FCN32
+  linkNet
+  ResNet
+  RCNN
+  UNet
+  
+  
+  
 1: Semantic Segmentation:
   a: Hair detection
   
