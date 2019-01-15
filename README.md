@@ -20,3 +20,7 @@ Nets:
 
 2 : Object detection:
       Hair Detection
+
+
+
+https://www.researchgate.net/publication/224238137_Human_head-shoulder_segmentation
